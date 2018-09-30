@@ -1,0 +1,10 @@
+Package: momisc
+Title: Michal Oleszak's Miscellaneous Functions
+Version: 0.0.0.9000
+Authors@R: person("Michal", "Oleszak", email = "oleszak.michal@gmail.com", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
