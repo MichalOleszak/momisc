@@ -1,2 +1,2 @@
 # momisc
-A set of miscellaneous functions I find useful
+A set of miscellaneous functions I find useful.
